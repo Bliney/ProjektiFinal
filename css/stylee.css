@@ -1,0 +1,156 @@
+body{
+background-color: #474e5d;
+opacity: 1;
+margin: 0 auto;
+width: 1900px;
+border: 1px solid black;
+ }
+.container{
+    width: 700px;
+    border: 10px solid black;
+}
+.divi{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 1100px;
+    height: 700px;
+    background-color: #fefefe;
+}
+
+.join{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 25px;
+    top: 35px;
+}
+
+.fill{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 35px;
+    left: 28px;
+}
+
+.hr{
+    width: 1000px;
+    position: relative;
+    top: 45px;
+    right: 19px;
+    
+    
+}
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+    
+  }
+
+  input[type=text], input[type=password] {
+      margin-top: 65px;
+    height: 50px;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    position: relative;
+    top: 40px;
+}
+input[type=text] {
+    position: relative;
+    right: 53px;
+    width: 995px;
+}
+
+input[type=password]{
+    position: relative;
+    right: 58px;
+    width: 992px; 
+}
+
+.emaili{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 32px;
+    position: relative;
+    bottom: 10px;
+    
+}
+
+.pasi{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    left: 36px;
+    bottom: 8px;
+}
+
+::placeholder{
+position: relative;
+left: 5px;
+font-family: 'Roboto', sans-serif; 
+}
+
+.rem{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    position: relative;
+    top: 80px;
+    left: 33px;
+}
+
+.tekst{
+    font-family: 'Roboto', sans-serif; 
+    position: relative;
+    top: 110px;
+    left: 37px;
+
+}
+
+.divi1{
+    background-color: #f5564a;
+    height: 50px;
+    width: 491.5px;
+    position: relative;
+    top: 145px;
+    left: 39px;
+    opacity: 0.9;
+}
+.divi1:hover{
+    opacity: 1;
+}
+
+.cancel{
+    font-weight: 500;
+    font-size: 25px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 9.5px;
+    left: 200px;
+}
+
+.divi2{
+    background-color: #1eb37c;
+    height: 50px;
+    width: 491.5px;
+    position: relative;
+    left: 531px;
+    top: 95px;
+    opacity: 0.9;
+
+}
+.divi2:hover{
+    opacity: 1;
+}
+
+
+
+

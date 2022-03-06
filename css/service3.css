@@ -1,0 +1,276 @@
+body{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #ffffff;
+}
+
+.checkout{
+    font-family: 'Roboto', sans-serif;
+    font: 500;
+    font-size: 20px;
+    position: relative;
+    right: 90px;
+    top: 40px;
+}
+
+.hr{
+    width: 750px;
+    background-color: #f2f2f2;
+    position: relative;
+    top: 50px;
+    right: 215px;
+}
+
+.purchase{
+    width: 300px;
+    height: 890px;
+    background-color: #f2f2f2;
+    position: relative;
+    left: 700px;
+    bottom: 45px;
+}
+
+.order{
+    font-family: 'Roboto', sans-serif;
+    font: 500;
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+    top: 19px;
+}
+
+.explore{
+    width: 280px;
+    height: 200px;
+    position: relative;
+    left: 10px;
+    top: 27px;
+    border: 1px solid;
+}
+
+.exp{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    text-align: center;
+}
+
+.aq{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    left: 44px;
+}
+
+.price{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    left: 44px;
+    top: 10px;
+    word-spacing: 80px;
+}
+
+.vat{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    left: 45px;
+    top: 10px;
+}
+
+.h{
+    width: 280px;
+    position: relative;
+    top: 10px;
+}
+
+.text{
+    color: black;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 32px;
+    position: relative;
+    top: 15px;
+}
+
+.check{
+    position: relative;
+    top: 60px;
+    right: 260px;
+}
+
+.add{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    left: 40px;
+    top: 20px; 
+    box-sizing: border-box;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.aqq{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    top: 35px;
+    text-align: center; 
+
+}
+
+.orderr{
+    background-color: #79b5f1;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    opacity: 0.7;
+}
+
+.orderr:hover{
+    opacity: 1;
+}
+
+.p{
+    font-weight: 500;
+    font-size: 30px;
+    text-decoration: none;
+    color:white ;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 22.5px;
+    top: 11px;
+   
+}
+
+.container{
+    width: 700px;
+    height: 500px;
+    background-color: #f2f2f2;
+    position: relative;
+    bottom: 800px;
+    right: 85px;
+    }
+    
+    .credit{
+        width: 50px;
+        position: relative;
+        left: 50px;
+        top: 20px;
+    }
+    
+    .card{
+        color: black;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 32px;
+        position: relative;
+        bottom: 40px;
+        left: 100px;
+    }
+    
+    .details{
+        color: black;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 32px;
+        position: relative;
+        bottom: 10px;
+        left: 20px;  
+    }
+    
+    .number{
+        height: 50px;
+        width: 550px;
+        color: black;
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 500;
+        font-size: 20px;
+        position: relative;
+        bottom: 20px;
+        left: 54px;
+    }
+    
+     ul li{
+         width: 40px;
+        display: inline-block;
+        list-style-type: none;
+        position: relative;
+        left: 420px;
+        bottom: 135px;
+        padding: 5px;
+        
+         }
+       
+         .expi{
+            height: 50px;
+            width: 250px;
+            color: black;
+            font-family: 'Roboto', sans-serif; 
+            font-weight: 500;
+            font-size: 20px;
+            position: relative;
+            top: -70px;
+            left: 54px;
+            text-align: left;
+         }
+    
+         .cvv{
+            height: 50px;
+            width: 250px;
+            color: black;
+            font-family: 'Roboto', sans-serif; 
+            font-weight: 500;
+            font-size: 20px;
+            position: relative;
+            top: -70px;
+            left: 90px;
+    
+         }
+    
+         .postal{
+            height: 50px;
+            width: 550px;
+            color: black;
+            font-family: 'Roboto', sans-serif; 
+            font-weight: 500;
+            font-size: 20px;
+            position: relative;
+            bottom: 40px;
+            left: 54px;
+         }
+    
+    .save{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        position: relative;
+        left: 60px;
+        bottom: 25px;
+    }
+    
+    .dont{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        position: relative;
+        left: 60px;
+        bottom: 25px;  
+        display: inline-block;
+    }
